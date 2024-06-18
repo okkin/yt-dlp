@@ -5,3 +5,5 @@
 # Ignore partially downloaded files
 *.part
 *.ytdl
+# Ignore the downloads directory
+downloads/*
